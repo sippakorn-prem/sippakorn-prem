@@ -1,15 +1,16 @@
-# Hi, I'm Prem. Nice to see you.
-Welcome to my [Sippakorn.page](https://sippakorn.page)!
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"> Hi there. I'm Prem !
+![Profile views](https://komarev.com/ghpvc/?username=sippakorn-prem&color=lightgrey)
 
-My name is Sippakorn Suphapinyo but you can call me **Prem**.
+<a href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif">
+  <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif"/>
+</a>
 
-I'm software developer, currently living in  Bangkok, Thailand.
-
+My name is Sippakorn Suphapinyo but you can call me **Prem**.<br>
+I'm software developer, currently living in  Bangkok, Thailand.<br>
 I'm Javascript enjoyer.
 
+## Welcome to my [Sippakorn.page](https://sippakorn.page)!
 
-![App](https://komarev.com/ghpvc/?username=sippakorn-prem&color=lightgrey)
-
-### &nbsp; My Stats
+## My Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sippakorn-prem&layout=compact&theme=github_dark_dimmed)](https://github.com/sippakorn-prem)
