@@ -5,9 +5,8 @@
   <img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif"/>
 </a>
 <br><br>
-My name is Sippakorn Suphapinyo but you can call me <strong>Prem</strong>. <br>
-I'm software developer, currently living in  Bangkok, Thailand.<br>
-I'm Javascript enjoyer.
+
+> Software Developer | Javascript enjoyer
 
 ## Welcome to my [Sippakorn.page](https://sippakorn.page)!
 
