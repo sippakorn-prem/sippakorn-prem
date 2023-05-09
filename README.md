@@ -5,7 +5,7 @@ I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`
 
 ### Welcome to my [Sippakorn.page](https://sippakorn.page)!
 <a href="https://sippakorn.page">
-  <img align="center" src="./coffee-shop-1.png" width="100%" height="100%"/>
+  <img align="center" src="assets/coffee-shop-1.png" width="100%" height="100%"/>
 </a>
 <p align="right">
   <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Generate by AUTOMATIC1111/stable-diffusion-webui</a>
@@ -19,4 +19,4 @@ I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`
 ### My fav voice line
 > I got your backs. Just, y'know, from the front.
 
-<audio controls="controls"><source type="audio/mp3" src="./i_got_your_backs.mp3"></source></audio>
+<audio controls="controls"><source type="audio/mp3" src="assets/i_got_your_backs.mp3"></source></audio>
