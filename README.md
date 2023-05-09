@@ -3,18 +3,18 @@
 
 I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`
 
-### Welcome to my [Sippakorn.page](https://sippakorn.page)!
-<a href="https://sippakorn.page">
+### Welcome to my <a href="https://sippakorn.page" target="_blank">Sippakorn.page</a>
+<a href="https://sippakorn.page" target="_blank">
   <img align="center" src="assets/coffee-shop-1.png" width="100%" height="100%"/>
 </a>
 <p align="right">
-  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui">Generate by AUTOMATIC1111/stable-diffusion-webui</a>
+  <a href="https://github.com/AUTOMATIC1111/stable-diffusion-webui" target="_blank">Generate by AUTOMATIC1111/stable-diffusion-webui</a>
 </p>
 
 
 ### My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sippakorn-prem&layout=compact&theme=github_dark_dimmed)](https://github.com/sippakorn-prem)
+<a href="https://github.com/sippakorn-prem" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sippakorn-prem&layout=compact&theme=github_dark_dimmed"/></a>
 
 ### My fav voice line
 > I got your backs. Just, y'know, from the front.
