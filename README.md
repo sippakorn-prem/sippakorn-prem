@@ -1,7 +1,7 @@
 # <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="28px"> Hi there. I'm Prem !
 ![Profile views](https://komarev.com/ghpvc/?username=sippakorn-prem&color=lightgrey)
 
-I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`
+I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`<br>
 I live in Bangkok, Thailand.
 
 > A user interface is like a joke. If you have to explain it, it’s not that good.
