@@ -2,6 +2,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=sippakorn-prem&color=lightgrey)
 
 I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`
+I live in Bangkok, Thailand.
+
+> A user interface is like a joke. If you have to explain it, it’s not that good.
 
 ### Welcome to my <a href="https://sippakorn.page" target="_blank">Sippakorn.page</a>
 <a href="https://sippakorn.page" target="_blank">
@@ -15,8 +18,3 @@ I'm `Software Developer` `Javascript Enjoyer` `Valorant Player`
 ### My Stats
 
 <a href="https://github.com/sippakorn-prem" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sippakorn-prem&layout=compact&theme=github_dark_dimmed"/></a>
-
-### My fav voice line
-> I got your backs. Just, y'know, from the front.
-
-<audio controls="controls"><source type="audio/mp3" src="assets/i_got_your_backs.mp3"></source></audio>
