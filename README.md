@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://premsippakorn.work" target="blank" style="margin-right: 8px">
+  <a href="https://premsippakorn.work" target="blank" style="margin-right: 8px;text-decoration: none;">
     <img align="center" src="assets/premsippakorn.work-logo.png" alt="sippakorn-prem" height="30" width="30" />
   </a>
-  <a href="https://linkedin.com/in/sippakorn-prem" target="blank">
+  <a href="https://linkedin.com/in/sippakorn-prem" target="blank" style="margin-right: 8px;text-decoration: none;">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sippakorn-prem" height="30" width="40" />
   </a>
 </p>
