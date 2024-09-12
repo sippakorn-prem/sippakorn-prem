@@ -5,17 +5,33 @@
   <img src="https://komarev.com/ghpvc/?username=sippakorn-prem&label=Profile%20views&color=lightgrey&style=flat" alt="sippakorn-prem" />
 </p>
 
-<p align="center" style="font-size:2.4rem"><img src="assets/hi.gif" width="30"/> Hi, My name is Prem</p>
+<h3 align="center"><img src="assets/hi.gif" width="30"/> Hi, My name is Prem</h3>
 
 <h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://premsippakorn.work" target="blank" style="margin-right: 8px;text-decoration: none;">
-    <img align="center" src="assets/premsippakorn.work-logo.svg" alt="sippakorn-prem" height="30"/>
-  </a>
-  <a href="https://linkedin.com/in/sippakorn-prem" target="blank" style="margin-right: 8px;text-decoration: none;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sippakorn-prem" height="30" width="40" />
-  </a>
-  <a href="mailto:sippakorn.su@gmail.com" target="blank" style="margin-right: 8px;text-decoration: none;">
-    <img align="center" src="assets/square-envelope-solid.svg" alt="sippakorn-prem" height="40" />
-  </a>
-</p>
+
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">
+        <a href="https://premsippakorn.work" rel="nofollow">
+          <img src="assets/premsippakorn.work-logo.svg" alt="PremSippakorn.work Logo" width="32">
+        </a>
+      </th>
+      <th align="center">
+        <a href="https://linkedin.com/in/sippakorn-prem" rel="nofollow">
+          <img src="assets/linkedin.svg" alt="Linkedin Logo" width="32">
+        </a>
+      </th>
+      <th align="center">
+        <a href="https://github.com/sippakorn-prem" rel="nofollow">
+          <img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="Github Logo" width="32">
+        </a>
+      </th>
+      <th align="center">
+        <a href="mailto:sippakorn.su@gmail.com" rel="nofollow">
+          <img src="assets/gmail.svg" alt="Gmail Logo" width="32">
+        </a>
+      </th>
+    </tr>
+  </thead>
+</table>
