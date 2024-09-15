@@ -7,17 +7,23 @@
 
 <h2><img src="assets/hi.gif" width="30"/> Hi, My name is <a href="https://github.com/sippakorn-prem">Prem</a></h2>
 
+Software engineer with 6+ years’ experience in full-stack development, scalable architecture, and code optimization.<br>
+Passionate about coding standards and team mentoring.
+
 <h3>About me</h3>
 
 - ☕️&emsp;But first, coffee
 
-- 🛠&emsp;I’m currently working with Next, Nest, Python, etc.
+- 📍&emsp;Based in Bangkok, Thailand
+
+- 🛠&emsp;I’m currently working with Nest, Next, Nuxt, Python, etc.
 
 - 🚀&emsp;I’m currently exploring DevOps, Go-lang, etc.
 
 - 👨‍💻&emsp;My portfolio [premsippakorn.work](premsippakorn.work)
 
 - ✉️&emsp;How to reach me **sippakorn.su@gmail.com**
+
 
 <h3>Connect with me</h3>
 
