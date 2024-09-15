@@ -42,7 +42,7 @@ Passionate about coding standards and team mentoring.
       </th>
       <th>
         <a href="https://github.com/sippakorn-prem" rel="nofollow" target="_blank">
-          <img src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="Github Logo" width="32">
+          <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github Logo" width="32">
         </a>
       </th>
       <th>
