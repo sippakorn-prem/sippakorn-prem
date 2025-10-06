@@ -7,7 +7,7 @@
 
 <h2><img src="assets/hi.gif" width="30"/> Hi, My name is <a href="https://github.com/sippakorn-prem">Prem</a></h2>
 
-Software engineer with 6+ years’ experience in full-stack development, scalable architecture, and code optimization.<br>
+Experienced Software engineer in full-stack development, scalable architecture, and code optimization.<br>
 Passionate about coding standards and team mentoring.
 
 <h3>About me</h3>
@@ -20,8 +20,6 @@ Passionate about coding standards and team mentoring.
 
 - 🚀&emsp;I’m currently exploring DevOps, Go-lang, etc.
 
-- 👨‍💻&emsp;My portfolio [premsippakorn.work](premsippakorn.work)
-
 - ✉️&emsp;How to reach me **sippakorn.su@gmail.com**
 
 
@@ -30,11 +28,6 @@ Passionate about coding standards and team mentoring.
 <table>
   <thead>
     <tr>
-      <th>
-        <a href="https://premsippakorn.work" rel="nofollow" target="_blank">
-          <img src="assets/premsippakorn.work-logo.svg" alt="PremSippakorn.work Logo" width="32">
-        </a>
-      </th>
       <th>
         <a href="https://linkedin.com/in/sippakorn-prem" rel="nofollow" target="_blank">
           <img src="assets/linkedin.svg" alt="Linkedin Logo" width="32">
