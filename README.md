@@ -1,48 +1,59 @@
-<p>
-  <img src="assets/cafe.png" width="500"/>
-</p>
-<p>
-  <img src="https://komarev.com/ghpvc/?username=sippakorn-prem&label=Profile%20views&color=lightgrey&style=flat" alt="sippakorn-prem" />
+<p align="center">
+  <img src="assets/cafe.png" width="500" alt="Coffee" />
 </p>
 
-<h2><img src="assets/hi.gif" width="30"/> Hi, My name is <a href="https://github.com/sippakorn-prem">Prem</a></h2>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sippakorn-prem&label=Profile%20views&color=0e7490&style=flat" alt="Profile views" />
+</p>
 
-Experienced Software engineer in full-stack development, scalable architecture, and code optimization.<br>
-Passionate about coding standards and team mentoring.
+---
 
-<h3>About me</h3>
+<h2 align="center">
+  <img src="assets/hi.gif" width="28" alt="" /> Hi, I'm <a href="https://github.com/sippakorn-prem">Prem</a>
+</h2>
 
-- ☕️&emsp;But first, coffee
+<p align="center">
+  <strong>Sippakorn Suphapinyo</strong> · Software Engineer
+</p>
 
-- 📍&emsp;Based in Bangkok, Thailand
+<p align="center">
+  Backend-focused engineer · Event-driven systems · Data pipelines · Scalable architecture
+</p>
 
-- 🛠&emsp;I’m currently working with Nest, Next, Nuxt, Python, etc.
+<p align="center">
+  <a href="https://github.com/sippakorn-prem/portfolio-web">Portfolio</a> ·
+  <a href="mailto:sippakorn.su@gmail.com">Contact</a>
+</p>
 
-- 🚀&emsp;I’m currently exploring DevOps, Go-lang, etc.
+---
 
-- ✉️&emsp;How to reach me **sippakorn.su@gmail.com**
+### About me
 
+- ☕️ But first, coffee
+- 📍 **Chatuchak, Bangkok, Thailand**
+- 🛠 Backend & data: **Node.js**, **NestJS**, **Python**, **Kafka**, **Flink**, **PostgreSQL**, **ClickHouse**
+- 🖥 Frontend when needed: **React**, **Next.js**, **Vue**, **Nuxt**
+- 🚀 Exploring **DevOps**, **Go**, and system design
+- ✉️ **sippakorn.su@gmail.com**
 
-<h3>Connect with me</h3>
+---
 
-<table>
-  <thead>
-    <tr>
-      <th>
-        <a href="https://linkedin.com/in/sippakorn-prem" rel="nofollow" target="_blank">
-          <img src="assets/linkedin.svg" alt="Linkedin Logo" width="32">
-        </a>
-      </th>
-      <th>
-        <a href="https://github.com/sippakorn-prem" rel="nofollow" target="_blank">
-          <img src="https://github.githubassets.com/favicons/favicon.svg" alt="Github Logo" width="32">
-        </a>
-      </th>
-      <th>
-        <a href="mailto:sippakorn.su@gmail.com" rel="nofollow" target="_blank">
-          <img src="assets/gmail.svg" alt="Gmail Logo" width="32">
-        </a>
-      </th>
-    </tr>
-  </thead>
-</table>
+### Connect
+
+<p align="center">
+  <a href="https://sippakorn.page" target="_blank" rel="noopener noreferrer" title="Portfolio">
+    <img src="assets/favicon.svg" alt="Portfolio" width="28" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/sippakorn-prem" target="_blank" rel="noopener noreferrer">
+    <img src="assets/linkedin.svg" alt="LinkedIn" width="28" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/sippakorn-prem" target="_blank" rel="noopener noreferrer">
+    <img src="https://github.githubassets.com/favicons/favicon.svg" alt="GitHub" width="28" />
+  </a>
+  &nbsp;
+  <a href="mailto:sippakorn.su@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="assets/gmail.svg" alt="Email" width="28" />
+  </a>
+</p>
