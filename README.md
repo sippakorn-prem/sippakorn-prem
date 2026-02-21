@@ -6,26 +6,22 @@
   <img src="https://komarev.com/ghpvc/?username=sippakorn-prem&label=Profile%20views&color=0e7490&style=flat" alt="Profile views" />
 </p>
 
----
-
-<h2 align="center">
-  <img src="assets/hi.gif" width="28" alt="" /> Hi, I'm <a href="https://github.com/sippakorn-prem">Prem</a>
+<h2>
+  <img src="assets/hi.gif" width="28" alt="" /> Hi, I'm Prem
 </h2>
 
-<p align="center">
+<p>
   <strong>Sippakorn Suphapinyo</strong> · Software Engineer
 </p>
 
-<p align="center">
+<p>
   Backend-focused engineer · Event-driven systems · Data pipelines · Scalable architecture
 </p>
 
-<p align="center">
-  <a href="https://github.com/sippakorn-prem/portfolio-web">Portfolio</a> ·
+<p>
+  <a href="https://sippakorn.page">Portfolio</a> ·
   <a href="mailto:sippakorn.su@gmail.com">Contact</a>
 </p>
-
----
 
 ### About me
 
@@ -40,7 +36,7 @@
 
 ### Connect
 
-<p align="center">
+<p>
   <a href="https://sippakorn.page" target="_blank" rel="noopener noreferrer" title="Portfolio">
     <img src="assets/favicon.svg" alt="Portfolio" width="28" />
   </a>
